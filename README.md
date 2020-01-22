@@ -1,2 +1,2 @@
 # ElementsRPG
-A gamedev learning process game, made with RPG Maker MV.
+Algum jogo feito na tentativa de aprender a fazer jogos, criado utilizando RPG Maker MV.
