@@ -1,5 +1,6 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1048.6666666666667,"scrollY":641.3333333333334},
-{"id":2,"expanded":false,"name":"Vilarejo1","order":2,"parentId":0,"scrollX":1088,"scrollY":800}
+{"id":2,"expanded":true,"name":"Vilarejo1","order":2,"parentId":0,"scrollX":1716,"scrollY":1049.4545454545455},
+{"id":3,"expanded":false,"name":"Vilarejo2","order":3,"parentId":0,"scrollX":1348.2857142857142,"scrollY":824.5714285714286}
 ]
